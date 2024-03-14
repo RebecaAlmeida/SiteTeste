@@ -1,0 +1,44 @@
+body {
+    background-color:aliceblue;
+}
+
+h1{
+    background-color: deepskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+    background-color: darkorange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+    background-color: indigo;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{ 
+    background-color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header img {
+
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    border-color: black;
+
+}
+.center{
+
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
